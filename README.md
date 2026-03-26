@@ -5,8 +5,8 @@ Full-Stack Software Engineer based in Ontario, Canada. I build web and mobile ap
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img height="167" src="https://github-readme-stats-kttlabs.vercel.app/api?username=thangk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="167" src="https://github-readme-streak-stats.herokuapp.com/?user=thangk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="169" src="https://github-readme-stats-kttlabs.vercel.app/api?username=thangk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="169" src="https://github-readme-streak-stats.herokuapp.com/?user=thangk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### 🛠️ Most Used Languages:
