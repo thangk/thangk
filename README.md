@@ -5,16 +5,15 @@ Full-Stack Software Engineer based in Ontario, Canada. I build web and mobile ap
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img height="190" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thangk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=thangk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="190" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thangk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&card_width=380" alt="GitHub Stats" />
+  <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=thangk&theme=tokyonight&hide_border=true&card_width=380" alt="GitHub Streak" />
 </p>
 
 ### 🛠️ Most Used Languages:
 
 <p align="center">
-  <img height="285" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thangk&theme=tokyonight" alt="Top Languages by Repo" />
-  <img height="285" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thangk&theme=tokyonight" alt="Top Languages by Commit" />
-  <img height="285" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thangk&theme=tokyonight&hide_border=true&langs_count=20&card_width=200" alt="Top Languages" />
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thangk&theme=tokyonight" alt="Top Languages by Repo" />
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thangk&theme=tokyonight" alt="Top Languages by Commit" />
 </p>
 
 ### 💻 Skills:
