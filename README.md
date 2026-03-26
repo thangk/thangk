@@ -20,24 +20,27 @@ Full-Stack Software Engineer based in Ontario, Canada. I build web and mobile ap
 
 #### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,kotlin,java,cpp,cs,html,css,sass,bash,go,latex&theme=dark" alt="Languages" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,typescript,javascript,kotlin,java,cpp,cs,html,css,sass,bash,golang,latex&theme=dark" alt="Languages" />
 </p>
 
 #### Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,postgres,mysql,sqlite,supabase,firebase,prisma,redis&theme=dark" alt="Technologies Row 1" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,nestjs,fastapi,django,trpc,postgresql,mysql,sqlite,supabase,pocketbase,firebase,prisma,redis&theme=dark" alt="Technologies Row 1" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,aws,gcp,azure,pnpm,bun,vite,stripe&theme=dark" alt="Technologies Row 2" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,docker,cuda,vercel,aws,gcp,azure,turborepo,pnpm,bun,vite,stripe&theme=dark" alt="Technologies Row 2" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,unity,vscode,selenium&theme=dark" alt="Technologies Row 3" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mcp,claude,swagger,dotnet,unity,vscode,chrome,pwa&theme=dark" alt="Technologies Row 3" />
 </p>
 
 #### Frameworks, Libraries & Testing
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,expo,redux,tailwind,emotion,jest,vitest&theme=dark" alt="Frameworks Row 1" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,nextjs,tanstack,expo,redux,zustand,tailwindcss,shadcn,radix&theme=dark" alt="Frameworks Row 1" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,opencv&theme=dark" alt="Frameworks Row 2" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=framer,chartjs,reactquery,reactrouter,pydantic,eslint,prettier,playwright,vitest,jest&theme=dark" alt="Frameworks Row 2" />
+</p>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pytest,testinglibrary,pytorch,scikitlearn,huggingface,opencv,scipy,numpy,pandas,matplotlib,seaborn&theme=dark" alt="Frameworks Row 3" />
 </p>
