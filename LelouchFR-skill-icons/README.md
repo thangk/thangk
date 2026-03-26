@@ -58,3 +58,9 @@ Full-Stack Software Engineer based in Ontario, Canada. I build web and mobile ap
   <br/>
   <em>pytest, React Testing Library, PyTorch, scikit-learn, HuggingFace, OpenCV, SciPy, NumPy, Pandas, Matplotlib, Seaborn</em>
 </p>
+
+---
+
+<p align="center">
+  <a href="../README.md">Back to main README</a>
+</p>
