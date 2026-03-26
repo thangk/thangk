@@ -62,5 +62,5 @@ Full-Stack Software Engineer based in Ontario, Canada. I build web and mobile ap
 ---
 
 <p align="center">
-  <a href="../README.md">Back to main README</a>
+  <a href="https://github.com/thangk">Back to main README</a>
 </p>
