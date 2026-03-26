@@ -17,7 +17,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thangk&layout=compact&theme=tokyonight&hide_border=true&langs_count=20" alt="Top Languages" />
 </p>
 
-### 💻 Tech Stack:
+### 💻 Skills:
 
 #### Languages
 <p align="center">
