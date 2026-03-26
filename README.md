@@ -2,7 +2,7 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thangk&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thangk&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -12,5 +12,6 @@
 ### 🛠️ Most Used Languages:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thangk&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thangk&theme=tokyonight" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thangk&theme=tokyonight" alt="Top Languages by Commit" />
 </p>
