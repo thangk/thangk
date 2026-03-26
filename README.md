@@ -2,6 +2,10 @@
 
 Full-Stack Software Engineer based in Ontario, Canada. I build web and mobile applications across the stack, with a focus on React, TypeScript, Python, and machine learning.
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/thangk" alt="Contribution Graph" />
+</p>
+
 ### 📊 GitHub Stats:
 
 <p align="center">
