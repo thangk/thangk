@@ -12,12 +12,9 @@ Full-Stack Software Engineer based in Ontario, Canada. I build web and mobile ap
 ### 🛠️ Most Used Languages:
 
 <p align="center">
-  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thangk&theme=tokyonight" alt="Top Languages by Repo" />
-  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thangk&theme=tokyonight" alt="Top Languages by Commit" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thangk&layout=compact&theme=tokyonight&hide_border=true&langs_count=20" alt="Top Languages" />
+  <img height="285" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thangk&theme=tokyonight" alt="Top Languages by Repo" />
+  <img height="285" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thangk&theme=tokyonight" alt="Top Languages by Commit" />
+  <img height="285" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thangk&theme=tokyonight&hide_border=true&langs_count=20&card_width=200" alt="Top Languages" />
 </p>
 
 ### 💻 Skills:
