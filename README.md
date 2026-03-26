@@ -1,3 +1,6 @@
+## Hi there 👋
+
+Full-Stack Software Engineer based in Ontario, Canada. I build web and mobile applications across the stack, with a focus on React, TypeScript, Python, and machine learning.
 
 ### 📊 GitHub Stats:
 
