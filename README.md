@@ -44,3 +44,9 @@ Full-Stack Software Engineer based in Ontario, Canada. I build web and mobile ap
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=pytest,testinglibrary,pytorch,scikitlearn,huggingface,opencv,scipy,numpy,pandas,matplotlib,seaborn&theme=dark" alt="Frameworks Row 3" />
 </p>
+
+---
+
+<p align="center">
+  <a href="LelouchFR-skill-icons/README.md">View version with text labels</a>
+</p>
