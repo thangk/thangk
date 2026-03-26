@@ -2,8 +2,8 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thangk&theme=tokyonight" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thangk&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thangk&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thangk&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ### 🛠️ Most Used Languages:
