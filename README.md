@@ -3,7 +3,7 @@
 
 <p align="center">
   <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thangk&theme=tokyonight" alt="GitHub Stats" />
-  <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=thangk&theme=tokyonight" alt="GitHub Streak" />
+  <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=thangk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### 🛠️ Most Used Languages:
